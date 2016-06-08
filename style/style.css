@@ -1,0 +1,27 @@
+.input-group {
+  margin: 20px 0px;
+
+}
+
+td, th {
+  vertical-align: middle !important;
+  text-align: center !important;
+  background-color: yellow;
+  border-left: grey dashed;
+  border-right: grey dashed;
+}
+
+thead {
+  border-style: solid;
+  border-color: black;
+}
+
+tbody {
+  border-style: solid;
+  border-color: gray;
+}
+
+td:first-of-type {
+  height: 200px;
+  width: 250px;
+}
